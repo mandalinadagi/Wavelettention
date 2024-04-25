@@ -1,0 +1,8 @@
+opencv-python
+pyyaml
+einops
+scipy
+PyWavelets
+matplotlib
+tqdm
+tensorboard
