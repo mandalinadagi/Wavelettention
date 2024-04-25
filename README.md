@@ -19,7 +19,7 @@
 
 Also to compare our method, you can download benchmark results from [Google Drive](https://drive.google.com/drive/folders/1siOshbeLHqkNPLUfloc7LpdIirOj7EHH?usp=drive_link)
 
-### Getting Start
+### Getting Started:
 
 Create python virtual environment and install dependencies
 ```
