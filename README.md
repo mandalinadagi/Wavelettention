@@ -11,7 +11,7 @@
 
 ### Stationary Wavelet Loss Depiction:
 <p align="left">
-  <img height="250" src="./figures/wavelet_loss_depiction_new.png">
+  <img height="280" src="./figures/wavelet_loss_depiction_new.png">
 </p>
 
 ### Visual Comparisons:
