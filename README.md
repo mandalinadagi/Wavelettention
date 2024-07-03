@@ -1,5 +1,10 @@
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/training-transformer-models-by-wavelet-losses/image-super-resolution-on-set5-4x-upscaling)](https://paperswithcode.com/sota/image-super-resolution-on-set5-4x-upscaling?p=training-transformer-models-by-wavelet-losses)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/training-transformer-models-by-wavelet-losses/image-super-resolution-on-bsd100-4x-upscaling)](https://paperswithcode.com/sota/image-super-resolution-on-bsd100-4x-upscaling?p=training-transformer-models-by-wavelet-losses)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/training-transformer-models-by-wavelet-losses/image-super-resolution-on-set14-4x-upscaling)](https://paperswithcode.com/sota/image-super-resolution-on-set14-4x-upscaling?p=training-transformer-models-by-wavelet-losses)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/training-transformer-models-by-wavelet-losses/image-super-resolution-on-urban100-4x)](https://paperswithcode.com/sota/image-super-resolution-on-urban100-4x?p=training-transformer-models-by-wavelet-losses)
+
 # Wavelettention
-> in NTIRE 2024 
+> in NTIRE 2024
 
 ## [Training Transformer Models by Wavelet Losses Improves Quantitative and Visual Performance in Single Image Super-Resolution](https://arxiv.org/pdf/2404.11273.pdf)
 [Cansu Korkmaz](https://mandalinadagi.github.io/) and [A. Murat Tekalp](http://mysite.ku.edu.tr/mtekalp/)
